@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\GrabCube.cs">
+    <Files>
+      <File FileName="Assets\script\GrabCube.cs" Line="51" Column="23" />
+      <File FileName="Assets\script\onoff.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\MoveTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\FlippSolution.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\FallenObj.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\HeadGesture.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Clear.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CountTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\cube.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\FlippSolution.cs">
+    <Files>
+      <File FileName="Assets\script\HeadLookWalk.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\HeadGesture.cs" Line="4" Column="1" />
+      <File FileName="Assets\script\GestureWalk.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\HeadLookUpDown.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\FallenObj.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\LookMoveTo.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CursirPositioner.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\MoveTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\HeadLookTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\FlippSolution.cs" Line="49" Column="91" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

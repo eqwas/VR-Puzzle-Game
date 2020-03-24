@@ -1,0 +1,227 @@
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\nunit.framework.xml
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\student.com06\Downloads\project\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\student.com06\Downloads\project\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\student.com06\Downloads\project\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\student.com06\Downloads\project\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\nunit.framework.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEditor.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEditor.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\nunit.framework.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\박진원\Documents\work\project (6)\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\박진원\Documents\work\project (6)\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\박진원\Documents\work\project (6)\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\박진원\Documents\work\project (6)\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\project (7)2\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\project (7)2\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\project (7)2\Temp\bin\Debug\Google.ProtocolBuffers.dll
+D:\project (7)2\Temp\bin\Debug\nunit.framework.dll
+D:\project (7)2\Temp\bin\Debug\UnityEditor.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\project (7)2\Temp\bin\Debug\Unity.Cecil.dll
+D:\project (7)2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\project (7)2\Temp\bin\Debug\ExCSS.Unity.dll
+D:\project (7)2\Temp\bin\Debug\Unity.DataContract.dll
+D:\project (7)2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\project (7)2\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\project (7)2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\project (7)2\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\project (7)2\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\project (7)2\Temp\bin\Debug\UnityEngine.xml
+D:\project (7)2\Temp\bin\Debug\UnityEditor.xml
+D:\project (7)2\Temp\bin\Debug\UnityEngine.UI.xml
+D:\project (7)2\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\project (7)2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\project (7)2\Temp\bin\Debug\nunit.framework.xml
+D:\project (7)2\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\project (7)2\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\project (7)2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\project (7)2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\project (7)2\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\project (7)2\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\project (7)2\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\project (7)2\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\nunit.framework.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\nunit.framework.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\박진원\Downloads\project (7)3\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\박진원\Downloads\project (7)3\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\박진원\Downloads\project (7)3\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\박진원\Downloads\project (7)3\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\nunit.framework.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEditor.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEditor.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\nunit.framework.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\student.com06\Downloads\project (7)3 (2)\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\student.com06\Downloads\project (7)3 (2)\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\student.com06\Downloads\project (7)3 (2)\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\nunit.framework.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEditor.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEditor.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\nunit.framework.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\박진원\Downloads\1214vr\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\박진원\Downloads\1214vr\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\박진원\Downloads\1214vr\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\박진원\Downloads\1214vr\obj\Debug\Assembly-CSharp-firstpass.pdb

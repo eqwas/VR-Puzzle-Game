@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\FlippSolution.cs">
+    <Files>
+      <File FileName="Assets\script\MoveTarget.cs" Line="66" Column="1" />
+      <File FileName="Assets\script\GrabCube.cs" Line="46" Column="15" />
+      <File FileName="Assets\script\Clicker.cs" Line="8" Column="3" />
+      <File FileName="Assets\script\FlippSolution.cs" Line="46" Column="80" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\박진원\Downloads\project (7)3\Assets\script\GrabCube.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
